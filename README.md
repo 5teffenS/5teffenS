@@ -1,5 +1,9 @@
-## 🇪🇺 Hi there, please call me Steffen
 
+background-image: url("../images/myImage.png");
+<!-- <div data-importer="image" align="center">
+  <img data-importer="image" height="500" src="https://fosstopia.de/wp-content/uploads/2025/08/cachyOS.jpg"  />
+</div> -->
+<h1 aligne="center"> 🇪🇺 Hi there, please call me Steffen </h1>
 <!--
 <!DOCTYPE html>
 <html lang="en">
