@@ -1,5 +1,5 @@
 
-background-image: url("../images/myImage.png");
+<!-- background-image: url("cachyos_wallpaper.png"); -->
 <!-- <div data-importer="image" align="center">
   <img data-importer="image" height="500" src="https://fosstopia.de/wp-content/uploads/2025/08/cachyOS.jpg"  />
 </div> -->
