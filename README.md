@@ -7,6 +7,9 @@
 ### 🇪🇺 Hi there, please call me Steffen. [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=4048&pause=2048&color=1334F7&background=0D111700&center=true&random=true&width=768&height=64&lines=If+you+stop+getting+better%2C+you've+stopped+being+good!)](https://git.io/typing-svg)
 
 <p align="right">...this profile is under construction</p>
+  <a align="right" href="https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles">
+    <img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40 alt="xing logo"  />  
+  </a>
 
 <!--
 <div data-importer="border">
