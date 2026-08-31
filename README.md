@@ -3,27 +3,41 @@
 <!-- <div data-importer="image" align="center">
   <img data-importer="image" height="500" src="https://fosstopia.de/wp-content/uploads/2025/08/cachyOS.jpg"  />
 </div> -->
-<h1 aligne="center"> 🇪🇺 Hi there, please call me Steffen </h1>
+
+<h1 align="right"> 🇪🇺 Hi there, please call me Steffen </h1>
 <p align="right">this profile is under construction</p>
 
-###
-
+<!--
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&reversal=false&text=Hi%20there,%20please%20call%20me%20Steffen&fontSize=70&fontColor=FFFFFF&fontAlign=500&fontAlignY=150&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"/>
 </div>
+-->
 
-<div data-importer="techs" align="left">
   <h2>Hardskills...</h2>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  </div>
-
-###
+  <table>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+        <img width="12" />
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+        <img width="12" />
+      </td>
+      <td width=720px>
+        .
+      </td>
+      <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+       <img width="12" />
+      </td>
+      <td>
+        <img src="https://explore-feed.github.com/topics/altium-designer/altium-designer.png" height="40" alt="altium designer logo"  />
+        <img width="12" />
+      </td>
+    </tr>
+  </table>
 
 <div data-importer="techs" align="left">
   <h2>In progress...</h2>
@@ -37,13 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=pacman.pacman&"  />
 </div>
 
-###
 <!--
 <!DOCTYPE html>
 <html lang="en">
