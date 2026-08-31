@@ -12,16 +12,22 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&reversal=false&text=Hi%20there,%20please%20call%20me%20Steffen&fontSize=70&fontColor=FFFFFF&fontAlign=500&fontAlignY=150&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"/>
 </div>
 
-###
-
 <div data-importer="techs" align="left">
-  <h2>In progress...</h2>
+  <h2>Hardskills...</h2>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
+  </div>
+
+###
+
+<div data-importer="techs" align="left">
+  <h2>In progress...</h2>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
