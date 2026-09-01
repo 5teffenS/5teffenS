@@ -8,7 +8,7 @@
 
 <p align="right"> ... this profile is under construction</p>
 
-[<img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40" alt="xing logo"  />](https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles) <sup>feel free to check out my xing profile </sup>
+[<img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40" alt="xing logo"  />](https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles) <sup> ... feel free to check out my xing profile </sup>
 
 <!--
 <div data-importer="border">
