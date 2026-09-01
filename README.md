@@ -7,29 +7,25 @@
 ### 🇪🇺 Hi there, please call me Steffen. [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=4048&pause=2048&color=1334F7&background=0D111700&center=true&random=true&width=768&height=64&lines=If+you+stop+getting+better%2C+you've+stopped+being+good!)](https://git.io/typing-svg)
 
 <p align="right">...this profile is under construction</p>
-  <a align="right" href="https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles">
-    <img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40 alt="xing logo"  />  
-  </a>
+
+[<img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40" alt="xing logo"  />](https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles)
 
 <!--
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&reversal=false&text=Hi%20there,%20please%20call%20me%20Steffen&fontSize=70&fontColor=FFFFFF&fontAlign=500&fontAlignY=150&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"/>
 </div>
 -->
+
 <div data-importer="techs" align="left">
   <h2>hardskills...</h2>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <a href="https://www.w3schools.com/css/default.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  </a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <a href="https://www.altium.com/de/altium-designer?srsltid=AfmBOoqeeNXKHG8D0MdS9W2gFYVbcImpPPho1MRW7rWc9TRl20rs6B1Z">
-    <img src="https://explore-feed.github.com/topics/altium-designer/altium-designer.png" height="40" alt="altium designer logo"  />
-  </a>
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />](https://www.w3schools.com/html/default.asp)
+    <img width="12" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />](https://www.w3schools.com/css/default.asp")
+    <img width="12" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />](https://www.geeksforgeeks.org/electronics-engineering/embedded-c/)
+    <img width="12" />
+  [<img src="https://explore-feed.github.com/topics/altium-designer/altium-designer.png" height="40" alt="altium designer logo"  />](https://www.altium.com/de/altium-designer?srsltid=AfmBOoqeeNXKHG8D0MdS9W2gFYVbcImpPPho1MRW7rWc9TRl20rs6B1Z)
     
 </div>
 <div data-importer="techs" align="left">
