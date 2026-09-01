@@ -6,9 +6,9 @@
 
 ### 🇪🇺 Hi there, please call me Steffen. [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=4048&pause=2048&color=1334F7&background=0D111700&center=true&random=true&width=768&height=64&lines=If+you+stop+getting+better%2C+you've+stopped+being+good!)](https://git.io/typing-svg)
 
-<p align="right">...this profile is under construction</p>
+<p align="right"> ... this profile is under construction</p>
 
-[<img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40" alt="xing logo"  />](https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles)
+[<img src="https://staging.svgrepo.com/show/123740/xing-logo.svg" height="40" alt="xing logo"  />](https://www.xing.com/profile/Steffen_Schroeder075921/web_profiles) > <sup>feel free to check out my xing profile </sup>
 
 <!--
 <div data-importer="border">
@@ -17,7 +17,7 @@
 -->
 
 <div data-importer="techs" align="left">
-  <h2>hardskills...</h2>
+  <h3>hardskills ...</h3>
   
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />](https://www.w3schools.com/html/default.asp)
     <img width="12" />
@@ -29,7 +29,7 @@
     
 </div>
 <div data-importer="techs" align="left">
-  <h2>in progress...</h2>
+  <h3>in progress ...</h3>
   
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />](https://www.w3schools.com/js/default.asp)
     <img width="12" />
